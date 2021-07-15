@@ -1,0 +1,72 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled5.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyM4E2TQWS15f8YE6iTxvuc3",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bard-rose/NeuromatchProject/blob/main/MATLAB%20to%20python%20function%20conversion%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "tZrEzrHXWErw"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "zJSTLLvrWFak"
+      },
+      "source": [
+        "###Matlab to python function translations "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "bXRVN5S0WMZB"
+      },
+      "source": [
+        "Matlab: Interp1 \n",
+        "- python: scipy.interpolate interp1d\n",
+        "-\n",
+        "https://stackoverflow.com/questions/19956388/scipy-interp1d-and-matlab-interp1\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "KKGMWlkNWSh5"
+      },
+      "source": [
+        ""
+      ]
+    }
+  ]
+}
